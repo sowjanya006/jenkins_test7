@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testobject name="dif" type="0" id="1033" foreign_id="0" testdata_id="3" state_mask="0x1188" last_id="0" child_count="3" uuid="5c12f577-6638-4a87-8ae6-2092dc33be71" testitem_state_mask="0x80" usercode_state_mask="0x00" last_modified="1593411336639" last_synchronized="0">
+	<version value="4.2.8">
+	</version>
+	<properties>
+	</properties>
+	<testitems>
+		<testcase name="" type="1" id="1041" foreign_id="0" testdata_id="1073741823" state_mask="0x1100" testcase_number="1" child_count="1" description="" specification="" comment="" uuid="27feb3ce-2364-4d10-a1b1-e0734de05a1d" testitem_state_mask="0x80" usercode_state_mask="0x00" last_modified="1593411336619" last_synchronized="0">
+			<teststep name="" id="1042" foreign_id="0" testdata_id="1073741824" type="1" state_mask="0x1100" repeat_count="1" description="" specification="" comment="" uuid="c8e8f05d-a3ad-4e2e-b57a-101b7145bfbb" testitem_state_mask="0x80" usercode_state_mask="0x00" last_modified="1593411336619" last_synchronized="0">
+			</teststep>
+		</testcase>
+		<testcase name="" type="1" id="1043" foreign_id="0" testdata_id="1073741825" state_mask="0x1100" testcase_number="2" child_count="1" description="" specification="" comment="" uuid="b950c498-c4c1-4a88-9156-698ed48ea87d" testitem_state_mask="0x80" usercode_state_mask="0x00" last_modified="1593411336629" last_synchronized="0">
+			<teststep name="" id="1044" foreign_id="0" testdata_id="1073741826" type="1" state_mask="0x1100" repeat_count="1" description="" specification="" comment="" uuid="bd995553-68fc-4561-ab28-18b445bf9971" testitem_state_mask="0x80" usercode_state_mask="0x00" last_modified="1593411336629" last_synchronized="0">
+			</teststep>
+		</testcase>
+		<testcase name="" type="1" id="1045" foreign_id="0" testdata_id="1073741827" state_mask="0x1100" testcase_number="3" child_count="1" description="" specification="" comment="" uuid="d5820510-7b98-43d7-919f-22719a6e6a9c" testitem_state_mask="0x80" usercode_state_mask="0x00" last_modified="1593411336639" last_synchronized="0">
+			<teststep name="" id="1046" foreign_id="0" testdata_id="1073741828" type="1" state_mask="0x1100" repeat_count="1" description="" specification="" comment="" uuid="e2c19749-32e4-41ac-8a0f-52f00367b544" testitem_state_mask="0x80" usercode_state_mask="0x00" last_modified="1593411336639" last_synchronized="0">
+			</teststep>
+		</testcase>
+	</testitems>
+</testobject>

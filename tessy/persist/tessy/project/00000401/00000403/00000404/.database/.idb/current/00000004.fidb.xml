@@ -1,0 +1,10 @@
+<func nam="dif" id="4">
+ <ret id="9" nam="" tc="10" tmd="0x800000000000000" pas="4" ips="4"/>
+ <parms/>
+ <calls/>
+ <vars>
+  <var id="10" nam="x" pas="2" ips="2" scp="2"/>
+  <var id="11" nam="y" pas="2" ips="2" scp="2"/>
+  <var id="12" nam="z" pas="8" ips="8" scp="2"/>
+ </vars>
+</func>

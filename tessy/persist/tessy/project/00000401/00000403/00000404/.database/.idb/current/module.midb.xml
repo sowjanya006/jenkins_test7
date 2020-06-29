@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<mod id="b6cc02b4-531f-4f49-8993-d07f6a376b87" lid="13" md5="9a1bf6a9f9f55450c4c5e160fc2a4444" opt="7" ver="21">
+<funcs>
+<func decl="int add()" id="2" md5="6e48cc4cc69c789cf8e1e5677eb1b92d" nam="add" scp="2" src="1" srcid="1" tmd="0x2000000000000000">
+<coverage c0="1" c1="1" c2="1" mcc="0" mcdc="1"/>
+<metrics calls="0" depth="1" mccabe="1" stmts="2"/>
+</func>
+<func decl="int mul()" id="3" md5="bdbc6465eaa2346073f6db364d108476" mod="1" nam="mul" scp="2" src="2" srcid="2" tmd="0x2000000000000000">
+<coverage c0="1" c1="1" c2="1" mcc="0" mcdc="1"/>
+<metrics calls="0" depth="1" mccabe="1" stmts="2"/>
+</func>
+<func decl="int dif()" id="4" md5="12f9d7d70024b090f2d2b549a3e71b35" nam="dif" scp="2" src="3" srcid="3" tmd="0x2000000000000000">
+<coverage c0="1" c1="1" c2="1" mcc="0" mcdc="1"/>
+<metrics calls="0" depth="1" mccabe="1" stmts="2"/>
+</func>
+</funcs>
+<types/>
+<vars>
+<var id="2" nam="a" scp="2" src="1" tc="10" tmd="0x800000000000000"/>
+<var id="3" nam="b" scp="2" src="1" tc="10" tmd="0x800000000000000"/>
+<var id="4" nam="c" scp="2" src="1" tc="10" tmd="0x800000000000000"/>
+<var id="6" nam="j" scp="2" src="2" tc="10" tmd="0x800000000000000"/>
+<var id="7" nam="k" scp="2" src="2" tc="10" tmd="0x800000000000000"/>
+<var id="8" nam="l" scp="2" src="2" tc="10" tmd="0x800000000000000"/>
+<var id="10" nam="x" scp="2" src="3" tc="10" tmd="0x800000000000000"/>
+<var id="11" nam="y" scp="2" src="3" tc="10" tmd="0x800000000000000"/>
+<var id="12" nam="z" scp="2" src="3" tc="10" tmd="0x800000000000000"/>
+</vars>
+</mod>
