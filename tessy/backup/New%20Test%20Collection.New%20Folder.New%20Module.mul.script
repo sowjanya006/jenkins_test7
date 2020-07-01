@@ -1,15 +1,15 @@
 $testobject {
 
 	$testcase 1 {
-		$name ""
-		$uuid "aa8670ba-b72e-4cd9-ad68-6bca42a333fe"
+		$name "Dummy"
+		$uuid "037527c1-6887-4b24-9b43-57b7a049ffd8"
 
 		$teststep 1.1 {
 			$name ""
-			$uuid "c535047f-7d24-4b75-9319-15578df1b7d6"
+			$uuid "0dfd7188-c826-426a-b244-63801df90713"
 			$inputs {
-				j = 3
-				k = 2
+				j = 2
+				k = 3
 				l = 6
 			}
 			$outputs {
@@ -20,45 +20,35 @@ $testobject {
 				*** Ignore Call Trace ***
 			}
 		}
-	}
 
-	$testcase 2 {
-		$name ""
-		$uuid "ad42063a-26f0-430e-9ee4-af2fc3abd7d7"
-
-		$teststep 2.1 {
+		$teststep 1.2 {
 			$name ""
-			$uuid "ee7159e2-f912-4924-9cce-27829ccf1551"
+			$uuid "8d5c4f03-669a-420a-bcaf-77a21e49b659"
 			$inputs {
 				j = 5
-				k = 4
-				l = 20
+				k = 6
+				l = 30
 			}
 			$outputs {
-				l = 20
-				return 20
+				l = 30
+				return 30
 			}
 			$calltrace {
 				*** Ignore Call Trace ***
 			}
 		}
-	}
 
-	$testcase 3 {
-		$name ""
-		$uuid "8bf78c5e-6b6a-4c28-b85c-85bce9ddd5c4"
-
-		$teststep 3.1 {
+		$teststep 1.3 {
 			$name ""
-			$uuid "3f51c8f8-cf9e-4191-b40c-03162969773b"
+			$uuid "0ac7939c-451c-4a33-890f-11da6c2d6f3c"
 			$inputs {
-				j = 3
-				k = 4
-				l = 0
+				j = 4
+				k = 5
+				l = 20
 			}
 			$outputs {
-				l = 0
-				return 0
+				l = 20
+				return 20
 			}
 			$calltrace {
 				*** Ignore Call Trace ***

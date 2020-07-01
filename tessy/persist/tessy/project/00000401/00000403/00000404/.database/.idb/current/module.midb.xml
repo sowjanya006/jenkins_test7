@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<mod id="b6cc02b4-531f-4f49-8993-d07f6a376b87" lid="13" md5="9a1bf6a9f9f55450c4c5e160fc2a4444" opt="7" ver="21">
+<mod id="8a5f3cc0-9d21-447e-ad9e-65af351351e5" lid="13" md5="9a1bf6a9f9f55450c4c5e160fc2a4444" opt="7" ver="21">
 <funcs>
-<func decl="int add()" id="2" md5="6e48cc4cc69c789cf8e1e5677eb1b92d" nam="add" scp="2" src="1" srcid="1" tmd="0x2000000000000000">
+<func decl="int add()" id="2" md5="6e48cc4cc69c789cf8e1e5677eb1b92d" mod="1" nam="add" scp="2" src="1" srcid="1" tmd="0x2000000000000000">
 <coverage c0="1" c1="1" c2="1" mcc="0" mcdc="1"/>
 <metrics calls="0" depth="1" mccabe="1" stmts="2"/>
 </func>
@@ -9,7 +9,7 @@
 <coverage c0="1" c1="1" c2="1" mcc="0" mcdc="1"/>
 <metrics calls="0" depth="1" mccabe="1" stmts="2"/>
 </func>
-<func decl="int dif()" id="4" md5="12f9d7d70024b090f2d2b549a3e71b35" nam="dif" scp="2" src="3" srcid="3" tmd="0x2000000000000000">
+<func decl="int dif()" id="4" md5="12f9d7d70024b090f2d2b549a3e71b35" mod="1" nam="dif" scp="2" src="3" srcid="3" tmd="0x2000000000000000">
 <coverage c0="1" c1="1" c2="1" mcc="0" mcdc="1"/>
 <metrics calls="0" depth="1" mccabe="1" stmts="2"/>
 </func>

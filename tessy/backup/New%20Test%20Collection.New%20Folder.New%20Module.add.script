@@ -1,12 +1,29 @@
 $testobject {
 
 	$testcase 1 {
-		$name ""
-		$uuid "c98240a2-b5e5-4714-9407-6f87977376cb"
+		$name "Dummy"
+		$uuid "b48ef5ff-4412-4ed3-a7f9-45ef7130f848"
 
 		$teststep 1.1 {
 			$name ""
-			$uuid "37db3a4b-2b81-4b6c-b285-398d52ca7945"
+			$uuid "d0d4ee77-3a47-4612-aa0c-3b8f28db28c2"
+			$inputs {
+				a = 2
+				b = 3
+				c = 5
+			}
+			$outputs {
+				c = 5
+				return 5
+			}
+			$calltrace {
+				*** Ignore Call Trace ***
+			}
+		}
+
+		$teststep 1.2 {
+			$name ""
+			$uuid "c33564a8-40c6-434f-b03c-37db02b6f9a9"
 			$inputs {
 				a = 4
 				b = 5
@@ -20,45 +37,18 @@ $testobject {
 				*** Ignore Call Trace ***
 			}
 		}
-	}
 
-	$testcase 2 {
-		$name ""
-		$uuid "1e3ee393-a8a4-45c4-8a5a-9c63894a90b9"
-
-		$teststep 2.1 {
+		$teststep 1.3 {
 			$name ""
-			$uuid "3400548f-eeba-45d6-a8e6-bfc435827cc2"
+			$uuid "2feabb33-3faf-4800-9b84-83c248bef514"
 			$inputs {
-				a = 3
-				b = 2
-				c = 5
-			}
-			$outputs {
-				c = 5
-				return 5
-			}
-			$calltrace {
-				*** Ignore Call Trace ***
-			}
-		}
-	}
-
-	$testcase 3 {
-		$name ""
-		$uuid "68e2fe88-808b-449a-a17f-80a96f06bf39"
-
-		$teststep 3.1 {
-			$name ""
-			$uuid "a93a11c8-52b6-4c51-babc-b9222df9300b"
-			$inputs {
-				a = 8
+				a = 5
 				b = 9
-				c = 17
+				c = 14
 			}
 			$outputs {
-				c = 17
-				return 17
+				c = 14
+				return 14
 			}
 			$calltrace {
 				*** Ignore Call Trace ***
