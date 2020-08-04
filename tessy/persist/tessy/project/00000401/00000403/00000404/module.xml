@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<module name="New Module" description="" specification="" comment="" id="1028" state_mask="0x03" uuid="b0654ece-a17d-4c82-99df-94007165e5a2" environment="GNU GCC Eclipse CDT (Default)" parent_uuid="" variant_uuid="" last_modified="1593586778385" last_synchronized="0">
+<module name="New Module" description="" specification="" comment="" id="1028" state_mask="0x03" uuid="b0654ece-a17d-4c82-99df-94007165e5a2" environment="GNU GCC Eclipse CDT (Default)" parent_uuid="" variant_uuid="" last_modified="1596536870794" last_synchronized="0">
 	<version value="4.2.8">
 	</version>
 	<properties>
@@ -252,7 +252,7 @@
 	</properties>
 	<compiler_options includes="" defines="" commandline=""/>
 	<sources>
-		<source directory="$(USERPROFILE)\Desktop" filename="add.c" path="$(USERPROFILE)\Desktop\add.c" hide_functions="0">
+		<source directory="$(PROJECTROOT)\tessy" filename="add.c" path="$(PROJECTROOT)\tessy\add.c" hide_functions="0">
 			<compiler_options includes="" defines="" commandline=""/>
 			<properties>
 				<property name="Compiler Commandline" type="String" flags="0xC8000009" value="">
@@ -263,7 +263,7 @@
 				</property>
 			</properties>
 		</source>
-		<source directory="$(USERPROFILE)\Desktop" filename="mul.c" path="$(USERPROFILE)\Desktop\mul.c" hide_functions="0">
+		<source directory="$(PROJECTROOT)\tessy" filename="mul.c" path="$(PROJECTROOT)\tessy\mul.c" hide_functions="0">
 			<compiler_options includes="" defines="" commandline=""/>
 			<properties>
 				<property name="Compiler Commandline" type="String" flags="0xC8000009" value="">
@@ -274,7 +274,7 @@
 				</property>
 			</properties>
 		</source>
-		<source directory="$(USERPROFILE)\Desktop" filename="sub.c" path="$(USERPROFILE)\Desktop\sub.c" hide_functions="0">
+		<source directory="$(PROJECTROOT)\tessy" filename="sub.c" path="$(PROJECTROOT)\tessy\sub.c" hide_functions="0">
 			<compiler_options includes="" defines="" commandline=""/>
 			<properties>
 				<property name="Compiler Commandline" type="String" flags="0xC8000009" value="">
@@ -293,7 +293,7 @@
 			<fault_injections>
 			</fault_injections>
 		</testobject>
-		<testobject name="mul" description="" specification="" comment="" id="1082" state_mask="0x10001188" uuid="2706c24a-1ea6-4d78-ac80-8e64e00570e1" testdata_id="8" type="Normal" testitem_state_mask="0x80">
+		<testobject name="mul" description="" specification="" comment="" id="1082" state_mask="0x10001188" uuid="2706c24a-1ea6-4d78-ac80-8e64e00570e1" testdata_id="8" type="Normal" testitem_state_mask="0x00">
 			<properties>
 			</properties>
 			<fault_injections>

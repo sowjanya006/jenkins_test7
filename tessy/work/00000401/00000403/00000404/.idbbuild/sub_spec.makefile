@@ -1,4 +1,4 @@
-Src_include_sub := C:/Users/Sowjanya/Desktop 
+Src_include_sub := C:/Users/Sowjanya/Desktop/JENKIN~4/tessy 
 Src_cppflags_sub := 
 #Src_cppflags_tgt_sub :=
 #Src_cflags_tgt_sub :=

@@ -1,7 +1,7 @@
 .idbbuild/filetimes.timestamp:  \
-C:/Users/Sowjanya/Desktop/add.c \
-C:/Users/Sowjanya/Desktop/mul.c \
-C:/Users/Sowjanya/Desktop/sub.c \
+C:/Users/Sowjanya/Desktop/JENKIN~4/tessy/add.c \
+C:/Users/Sowjanya/Desktop/JENKIN~4/tessy/mul.c \
+C:/Users/Sowjanya/Desktop/JENKIN~4/tessy/sub.c \
 C:/PROGRA~1/Razorcat/TESSY_4.2/sys/TEMPLA~1/make/TSA088~1.TPL \
 C:/PROGRA~1/Razorcat/TESSY_4.2/sys/TEMPLA~1/tks/tks-gnu.tpl \
 C:/PROGRA~1/Razorcat/TESSY_4.2/sys/src/comm/TS_TIM~2.C \

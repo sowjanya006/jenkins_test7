@@ -19,8 +19,8 @@
         </operation>
         <operation key="generateBatchReport">
             <options>
-                <option key="reportOutputDirectory" value="$(PROJECTROOT)\tessy\report"/>
-                <option key="reportFileNamePattern" value="TESSY_OverviewReport"/>
+                <option key="reportOutputDirectory" value="$(PROJECTROOT)\report"/>
+                <option key="reportFileNamePattern" value="TESSY_OverviewReport_$(DATETIME)"/>
                 <option key="reportOutputFormat" value="pdf"/>
             </options>
             <arguments>
@@ -43,8 +43,8 @@
         </operation>
         <operation key="generateTestReport">
             <options>
-                <option key="reportOutputDirectory" value="$(PROJECTROOT)\tessy\report"/>
-                <option key="reportFileNamePattern" value="TESSY_DetailsReport"/>
+                <option key="reportOutputDirectory" value="$(PROJECTROOT)\report"/>
+                <option key="reportFileNamePattern" value="TESSY_DetailsReport_$(TESTOBJECT)_$(DATETIME)"/>
                 <option key="reportOutputFormat" value="pdf"/>
             </options>
             <arguments>

@@ -1,5 +1,5 @@
 <files>
- <file srcid="1" nam="$(USERPROFILE)\Desktop\add.c" path="C:\Users\Sowjanya\Desktop\add.c" origin="source" excluded="0"/>
- <file srcid="2" nam="$(USERPROFILE)\Desktop\mul.c" path="C:\Users\Sowjanya\Desktop\mul.c" origin="source" excluded="0"/>
- <file srcid="3" nam="$(USERPROFILE)\Desktop\sub.c" path="C:\Users\Sowjanya\Desktop\sub.c" origin="source" excluded="0"/>
+ <file srcid="1" nam="$(PROJECTROOT)\tessy\add.c" path="C:\Users\Sowjanya\Desktop\jenkins_test7\tessy\add.c" origin="source" excluded="0"/>
+ <file srcid="2" nam="$(PROJECTROOT)\tessy\mul.c" path="C:\Users\Sowjanya\Desktop\jenkins_test7\tessy\mul.c" origin="source" excluded="0"/>
+ <file srcid="3" nam="$(PROJECTROOT)\tessy\sub.c" path="C:\Users\Sowjanya\Desktop\jenkins_test7\tessy\sub.c" origin="source" excluded="0"/>
 </files>

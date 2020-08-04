@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<func id="2" nam="add">
+<ret id="1" ips="4" pas="4" tc="10" tmd="0x800000000000000"/>
+<vars>
+<var id="2" ips="2" pas="2" scp="2"/>
+<var id="3" ips="2" pas="2" scp="2"/>
+<var id="4" ips="8" pas="8" scp="2"/>
+</vars>
+</func>

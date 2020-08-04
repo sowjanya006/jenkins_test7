@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<func id="4" nam="dif">
+<ret id="9" ips="4" pas="4" tc="10" tmd="0x800000000000000"/>
+<vars>
+<var id="10" ips="2" pas="2" scp="2"/>
+<var id="11" ips="2" pas="2" scp="2"/>
+<var id="12" ips="8" pas="8" scp="2"/>
+</vars>
+</func>
